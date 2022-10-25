@@ -1,0 +1,4 @@
+1;Exit Summer Dance;FESTIVAL;22;2021-01-01 01:00:00.0;450.2;AKTIVNA;22.0,42.2,ulica,21,mesto,grad1,16211;slika;false;[komentar1, komentari2];0
+2;Lutkarska Predstava;POZORISTE;22;2021-10-10 01:00:00.0;1050;NEAKTIVNA;22.0,42.2,ulica,21,mesto,grad2,16211;slika;true;[komentar131, komentari221];0
+3;Love Fest;FESTIVAL;22;2021-12-12 01:00:00.0;250.2;AKTIVNA;22.0,42.2,ulica,21,mesto,grad3,16211;slika;true;[komentars, komentari];0
+4;Djokici;SVADBA;22;2021-09-09 01:00:00.0;520.2;NEAKTIVNA;22.0,42.2,ulica,21,mesto,grad2,16211;slika;false;[komentar, komentari];0

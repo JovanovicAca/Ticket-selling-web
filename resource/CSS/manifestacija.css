@@ -1,0 +1,325 @@
+#manifestacija-desno
+{
+    width: 500px;
+    height: 85vh;
+    margin-top: 150px;
+    position: absolute;
+    top: -12%;
+    left: 70%;
+    text-align: center;
+}
+#admin-odobriManif
+{
+    width: 500px;
+    height: 80vh;
+    margin-top: 150px;
+    position: absolute;
+    top: -6.5%;
+    left: 70%;
+    text-align: center;
+    border: 5px black solid;
+}
+#manifestacija-komentari-border,
+#manifestacija-komentari-border2
+{
+    width: 100%;
+    height: 63%;
+    background-color: black;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+#manifestacija-komentari-border2
+{
+    height: 98%;
+}
+#manifestacija-komentari-intro
+{
+    width: 98%;
+    height: 98%;
+    background-color: #e3e3e3;
+    border-radius: 15px;
+    position: relative;
+    top: 1%;
+    left: 1%;
+    overflow: scroll;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+#komentar-box
+{
+    width: 95%;
+    height: 150px;
+    position: relative;
+    border: 5px black solid;
+    top: 10px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+#komentar-profile
+{
+    width: 30%;
+    height: 100%;
+}
+#img-komentar
+{
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 15px;
+}
+#komentar-text
+{
+    width: 68%;
+    height: 98%;
+    position: absolute;
+    top: 1%;
+    left: 32%;
+    word-wrap: break-word;
+    overflow: scroll;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+#manifestacija-mojKom
+{
+    width: 100%;
+    height: 32%;
+}
+#mojKom-border
+{
+    width: 100%;
+    height: 100%;
+    border: 5px black solid;
+}
+#mojKom-input
+{
+    width: 90%;
+    height: 65%;
+    position: relative;
+    top: 5%;
+    text-align: left;
+    resize: none;
+}
+#komentarBtn
+{
+    width: 250px;
+    height: 40px;
+    position: relative;
+    top: 30px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
+#komentarBtn:hover
+{
+    background-color: rgb(59, 59, 59);
+}
+#manifestacija-slika,
+#manifestacija-slika2,
+#manifestacija-slika3
+{
+    width: 450px;
+    height: 380px;
+    position: absolute;
+    top: 50%;
+    left: 19%;
+    background-color: #000;
+}
+#manifestacija-mapa,
+#manifestacija-mapa2,
+#manifestacija-mapa3
+{
+    width: 900px;
+    height: 350px;
+    position: absolute;
+    top: 9%;
+    left: 19%;
+}
+
+#manifestacija-slika2
+{
+    top: 9%;
+    left: 19%;
+}
+#manifestacija-mapa2
+{
+    top: 55%;
+    left: 19%;
+}
+#manifestacija-slika3
+{
+    top: 9%;
+    left: 24%;
+}
+#manifestacija-mapa3
+{
+    width: 1300px;
+    height: 400px;
+    top: 52%;
+    left: 24%;
+}
+
+#manifestacija-inputi,
+#manifestacija-inputi2,
+#manifestacija-inputi3
+{
+    width: 550px;
+    height: 700px;
+    position: absolute;
+    top: 51%;
+    left: 45%;
+}
+#manifestacija-inputi2
+{
+    top: 11%;
+    left: 45%;
+}
+#manifestacija-inputi3
+{
+    top: 11%;
+    left: 50%;
+}
+.manif-naslov
+{
+    margin-bottom: 25px;
+}
+#manifestacija-rezKartu
+{
+    width: 500px;
+    height: 140px;
+    position: absolute;
+    top: 9%;
+    left: 70%;
+    text-align: center;
+}
+.tip-karte-rez
+{
+    width: 160px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #000;
+    color: white;
+}
+#manif-kolicina
+{
+    width: 500px;
+    height: 140px;
+    position: absolute;
+    top: 28%;
+    left: 70%;
+}
+#karta-kolicina2
+{
+    width: 80px;
+    height: 40px;
+    border-radius: 9px;
+    position: absolute;
+    top: 0%;
+    left: 53%;
+}
+#karta-kolicina3
+{
+    width: 90px;
+    height: 40px;
+    border-radius: 9px;
+    position: relative;
+    top: -31%;
+    left: 43%;
+}
+#kupiKartuBtn
+{
+    width: 220px;
+    height: 63px;
+    position: relative;
+    top: 45%;
+    left: 28%;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+#yesManif,
+#noManif
+{
+    width: 235px;
+    height: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: 1px black solid;
+
+}
+#yesManif
+{
+    background-color: #4da841;
+}
+#noManif
+{
+    background-color: rgb(160, 56, 56);
+}
+#nazivM
+{
+    width: 300px;
+    border-radius: 15px;
+    height: 40px;
+    position: absolute;
+    top: 0%;
+    left: 20%;
+}
+#tipM
+{
+    width: 220px;
+    border-radius: 15px;
+    height: 40px;
+    position: absolute;
+    top: 8%;
+    left: 12%;
+}
+#vremeM
+{
+    width: 220px;
+    border-radius: 15px;
+    height: 40px;
+    position: absolute;
+    top: 17%;
+    left: 20%;
+}
+#datumM
+{
+    width: 220px;
+    border-radius: 15px;
+    height: 40px;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+}
+#brojM
+{
+    width: 70px;
+    border-radius: 15px;
+    height: 40px;
+    position: absolute;
+    top: 33.5%;
+    left: 47%;
+}
+#ostatakM
+{
+    width: 70px;
+    border-radius: 15px;
+    height: 40px;
+    position: absolute;
+    top: 42%;
+    left: 48%;
+}
+#izmeneProdavacBtn
+{
+    width: 180px;
+    height: 45px;
+    border-radius: 15px;
+    background-color: #000;
+    color: white;
+    position: absolute;
+    top: 52%;
+    left: 17%;
+}

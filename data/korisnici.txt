@@ -1,0 +1,11 @@
+aca;aca;Aleksandar;Jovanovic;Musko;2021-06-23;KUPAC;0;0;status;[[[[[1,    2]]]]];0.0;zlatni,30,0.0;[[[[[]]]]]
+a;a;aleksnadar;sa;Musko;2021-06-22;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+ace;ace;s;s;Zensko;2021-06-23;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+adsa;dsa;dsa;dsa;Musko;2021-06-22;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+acas;sa;dsad;sda;Zensko;2021-06-23;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+acad;sa;sda;fa;Musko;2021-06-17;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+s;x;v;a;Musko;2021-06-11;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+cas;as;fs;sa;Musko;2021-06-22;KUPAC;0;0;status;[[[[[1,    2]]]]];0.0;null,0.0,0.0;[[[[[]]]]]
+prod;prod;prodavac;sa;Musko;2021-06-22;PRODAVAC;0;0;status;1,2
+admin;admin;aminko;adminkovic;Musko;2021-06-22;ADMINISTRATOR;0;0;status
+sa;sfa;fsa;fsa;Musko;2021-06-23;KUPAC;0;0;status;[[[[[]]]]];0.0;null,0.0,0.0;[[[[[]]]]]

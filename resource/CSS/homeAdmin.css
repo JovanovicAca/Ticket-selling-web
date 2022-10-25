@@ -1,0 +1,133 @@
+#img-adminMenuDiv
+{
+    width: 100%;
+    height: 30%;
+    margin-top:100%;
+}
+#admin-filterKorisnika
+{
+    width: 33%;
+    height: 4%;
+    margin-bottom: 25px;
+    position: absolute;
+    top: 5%;
+    left: 22%;
+}
+#admin-korisnik-intro:hover
+{
+    background-color: rgb(184, 184, 184);
+}
+#maliInput2
+{
+    width: 160px;
+    margin-right: 35px;
+    height: 100%;
+}
+#selectRasprodate3
+{
+    width: 160px;
+}
+#admin-label
+{
+    margin-left: 35px;
+}
+#admin-korisnici-border
+{
+    width: 31%;
+    height: 73%;
+    background-color:black;
+    position: absolute;
+    top: 25%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    left: 22%;
+}
+#admin-korisnici-unutra
+{
+    width: 98%;
+    height: 99%;
+    margin-left: 6px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #e9e9e9;
+    overflow: scroll;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+#admin-korisnik-item
+{
+    width: 95%;
+    height: 210px;
+    background-color: #000;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+#pretragaKorisnikaAdmin
+{
+    width: 180px;
+    height: 45px;
+    border-radius: 15px;
+    margin-left: 125px;
+    background-color: #000;
+    color: white;
+}
+#admin-korisnik-intro
+{
+    width: 98%;
+    height: 95.8%;
+    position: relative;
+    top: 5px;
+    left: 5px;
+    background-color: #e9e9e9;
+}
+#korisnikAdmin-slika
+{
+    width: 30%;
+    height: auto;
+    position: relative;
+    top: 13%;
+}
+#admin-korisnik-info
+{
+    margin-left: 33%;
+    margin-top: -135px;
+}
+#admin-korisnici-inputi
+{
+    width: 600px;
+    height: 75vh;
+    position: absolute;
+    top: 12%;
+    left: 60%;
+    text-align: center;
+}
+#korisniciAdminTxt
+{
+    width: 55%;
+    height: 45px;
+    border-radius: 15px;
+}
+#blokBtn,
+#odblokBtn
+{
+    width: 220px;
+    height: 55px;
+    border-radius: 15px;
+    color: white;
+    position: absolute;
+    border: 1px black solid;
+}
+#blokBtn
+{
+    top: 75%;
+    left: 62%;
+    background-color: rgb(160, 56, 56);
+}
+#odblokBtn
+{
+    top: 75%;
+    left: 77%;
+    background-color: #4da841;
+}
