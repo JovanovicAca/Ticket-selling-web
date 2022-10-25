@@ -3,6 +3,7 @@
 There are two types of users: 
 - registered user
 - admin
+</br>
 Every new user should register before using the system.
 
 Registered user can:
